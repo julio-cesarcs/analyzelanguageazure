@@ -1,4 +1,4 @@
-Conversão de fala em texto
+# Conversão de fala em texto
 
 1 - Acessar o link: https://speech.microsoft.com/portal. Ir em configurações e selecionar um recusrso, caso não tenha nenhum, criar um novo recurso. Excolher o recusro desejado e selecionar a opção Usar o recurso.
 
@@ -11,9 +11,8 @@ Conversão de fala em texto
 
 3 - Selecionar um o arquivo desejado. Em Resultados de teste, aparece o texto do áudio e o JSON.
 
-<img src="./assets/img/step03.png">
 
-Language Service
+# Language Service
 
 1 - Acessar https://portal.azure.com/, selecionar a opção Create resource, depois a opção AI + Machine Learning, em seguida a opção Create em Language Service.
 
